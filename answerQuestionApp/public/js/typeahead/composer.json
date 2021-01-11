@@ -1,0 +1,20 @@
+{
+    "name": "laravel/laravel",
+    "type": "project",
+    "description": "The Laravel Framework.",
+    "keywords": [
+        "framework",
+        "laravel"
+    ],
+    "authors": [
+        {
+            "name": "Irina Inashvili",
+            "homepage": "this is my homepage link"
+        }
+    ],
+    "support": {
+        "issues": "IssueLink :) "
+    },
+    "author": "Irina Inashvili",
+    "license": "MIT"
+}
